@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Murphy Life Coaching</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Home Fragment-->
+    <string name="coach_description">Founder and CEO of Murphy Life Coaching, LLC, Author, Motivational Speaker and a life booster. Theresa Murphy is a certified Life Coach who specializes in personal and professional development for woman to create success that is balanced, with an emphasis on woman transitioning from Corporate America to Entrepreneurship.
+
+In addition to being a certified Life Coach, She is also a domestic violence survivor and has presented nationally to general audiences speaking on the topic of domestic violence. Theresa is also an ambassador for 10 Blessings-10k Survivors, a domestic violence initiative focusing on helping 10 thousand victims leave domestic relationships.  Theresa released her recent book “Success Doesn’t Sleep” to help promote self-happiness and rebuild self esteem amongst woman who were broken and needed a new beginning.
+
+With a 20 year career in Human Resources, specializing in employee relations and mediation, she has acquired the knowledge and leadership skills to work effectively with people from all walks of life.
+
+Throughout her career she had a more personal fulfillment, so she furthered her education by attending International Coach Federation where she gained her wealth of knowledge in consulting and professional coaching. After 3 years of brainstorming and her personal life triumphs, she started her own life coaching practice with proven success strategies in helping people achieve life goals. Theresa also owns and runs The HR Café’ a boutique HR consulting firm in Charlotte, NC based out of Washington, DC that provides human resources consulting to start-up and small businesses. Theresa is a Washington, DC native and currently resides in Charlotte, NC. She feels fortunate to have found her calling and she is passionate about making a difference in other peoples’ lives.
+</string>
+
+    <string name="book_btn">Browse Books</string>
+    <string name="tshirt_btn">Browse Tshirts</string>
+    <string name="service_btn">View All Services</string>
+    <!-- Books and Tshirts -->
+    <string name="cart_btn">Add to Cart</string>
+    <string name="buy_btn">Buy Now</string>
+    <string name="online_btn">Online Store</string>
+    <string name="book">Books</string>
+    <string name="tshirt">Tshirts</string>
+    <!-- Service Fragment-->
+    <string name="service_one">Life Coaching</string>
+    <string name="service_two">Business Coaching</string>
+    <string name="service_three">Online Life and Business Coaching</string>
+    <string name="service_four">Tele-coaching</string>
+    <string name="service_five">Entrepreneur Training Academy</string>
+    <string name="service_six">Human Resources</string>
+    <string name="service_seven">Speaker Services</string>
+    <string name="service_description">As a professional life coach I work with a wide range of clients and offer a highly personalized approach tailored to each individual. In a supportive atmosphere, I help clients attain the professional and personal growth they’re striving for, utilizing the (AAA) term; Apply; Acknowledge, and Accept. I use unique resources and tools to break down barriers and help you live the life you deserve.
+
+    I offer sessions, in-person, tel-coaching and online coaching right at your finger tips. We will start with an initial assessment to clearly define your short and long term goals, everything from personal development to professional growth. We will use these goals as a foundation to create a strategy for attaining these objectives.
+    </string>
+    <string name="image_description">book andtshirt</string>
+    <!-- More Contacts -->
+    <string name="contact_map">Theresa Murphy
+    301 McCullough Dr. Suite 400
+    Charlotte, NC 28262</string>
+    <string name="contact_phone">\n+1 800-544-6037</string>
+    <string name="contact_email">theresa@theresamurphyinc.com</string>
+</resources>
